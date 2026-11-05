@@ -1,2 +1,4 @@
 print("Halo, Git!")
 print("hi")
+nama = input("Nama: ")
+npm = input("NPM: ") 
